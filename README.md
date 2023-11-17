@@ -1,10 +1,10 @@
 ### Oi! Aqui é o José Ricardo! 👨🏻‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white7&url=https://www.linkedin.com/in/jos%C3%A9-ricardo-0a7008219
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/jos%C3%A9-ricardo-0a7008219
 )](https://www.linkedin.com/in/jos%C3%A9-ricardo-0a7008219)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://criarmeulink.com.br/u/1700256587
-)](https://criarmeulink.com.br/u/1700256587)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:gmnaarea@gmail.com
+)](mailto:seuendereço@gmail.com)
 
 ![José Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=josericardo0&show_icons=true&theme=dark)
 
