@@ -1,5 +1,7 @@
 ### Oi! Aqui é o José Ricardo! 👨🏻‍💻
 
+### Fique à vontade para entrar em contato comigo atráves das minhas redes:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/jos%C3%A9-ricardo-0a7008219
 )](https://www.linkedin.com/in/jos%C3%A9-ricardo-0a7008219)
 
