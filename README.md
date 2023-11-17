@@ -8,7 +8,7 @@
 
 ![José Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=josericardo0&show_icons=true&theme=dark)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josericardo0&hide_progress=true)
 ### Tecnologias que possuo experiência:
 
 <div style="display: inline-block">
